@@ -1,2 +1,2 @@
 #readme
-test baru update README terbar
+test baru update README terbaru
