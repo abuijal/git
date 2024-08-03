@@ -1,4 +1,2 @@
 #readme
-
-ini file readme 1
-tulisan
+test baru update README terbaru
